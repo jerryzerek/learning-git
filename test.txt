@@ -1,1 +1,2 @@
 To jest plik do testowania gita
+sdasdasd
